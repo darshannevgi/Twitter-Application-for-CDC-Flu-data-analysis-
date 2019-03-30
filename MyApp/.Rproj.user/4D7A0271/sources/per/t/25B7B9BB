@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552422060963.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "933316136",
+    "id" : "25B7B9BB",
+    "lastKnownWriteTime" : 1552104818,
+    "last_content_update" : 1552104818,
+    "path" : "C:/Users/Darshan/Desktop/darshannLab1/darshannLab1Part3/MyApp/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
